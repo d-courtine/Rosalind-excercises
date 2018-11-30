@@ -1,4 +1,4 @@
-#!/Users/courtine/anaconda3/bin/python
+#!/usr/bin/env python
 # -*- coding:utf-8 -*
 
 from Bio import Entrez
